@@ -1,6 +1,6 @@
 {
   "name": "@piticent123/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Core personal utilities",
   "main": "lib/index.js",
   "files": [
