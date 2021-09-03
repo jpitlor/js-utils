@@ -1,0 +1,29 @@
+{
+  "name": "@piticent123/utils",
+  "version": "1.0.0",
+  "description": "Core personal utilities",
+  "main": "index.js",
+  "files": [
+    "lib/**/*"
+  ],
+  "scripts": {
+    "prepare": "tsc",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/piticent123/js-utils.git"
+  },
+  "author": "Jordan Pitlor <jordan@pitlor.dev>",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.19",
+    "prettier": "^2.3.2",
+    "react": "^17.0.2",
+    "typescript": "^4.4.2"
+  }
+}
