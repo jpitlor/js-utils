@@ -2,7 +2,7 @@
   "name": "@piticent123/utils",
   "version": "1.0.0",
   "description": "Core personal utilities",
-  "main": "index.js",
+  "main": "lib/index.js",
   "files": [
     "lib/**/*"
   ],
